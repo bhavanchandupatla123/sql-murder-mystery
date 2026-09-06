@@ -38,10 +38,8 @@ Rather than treating this as a simple query exercise, I approached it like an an
 ```text
 sql-murder-mystery/
 ├── README.md
-├── queries/
-│   └── investigation.sql
-└── data/
-    └── SQL_Murder_Mystery_MySQL_Datasets.xlsx
+└── queries/
+    └── investigation.sql
 ```
 
 The complete step-by-step SQL investigation is available in [`queries/investigation.sql`](queries/investigation.sql).
